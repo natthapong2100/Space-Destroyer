@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>fx_exhaust.png</file>
+        <file>fx_explosion.png</file>
+        <file>fx_fire1.png</file>
+        <file>fx_fire2.png</file>
+        <file>pro_bg1.png</file>
+        <file>pro_eb1.png</file>
+        <file>pro_eg1.png</file>
+        <file>pro_greenB.png</file>
+        <file>pro_pr1.png</file>
+        <file>pro_purpleB.png</file>
+    </qresource>
+</RCC>
